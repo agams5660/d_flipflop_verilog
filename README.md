@@ -34,6 +34,9 @@ gtkwave d_flipflop.vcd
 - GTKWave
 - VS Code
 - Ubuntu (WSL)
+## Simulation Waveform
+
+![OR Gate Waveform](images/or_gate_waveform.png)
 
 ## Author
 
